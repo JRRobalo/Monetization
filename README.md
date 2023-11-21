@@ -12,5 +12,3 @@ How do we do this?
 - Track loss on generator by comparing real Monet with Monet generated from real Monet and by including discriminator loss on Monetized photos.
 
 Essentially: as the Adversary judges how bad generated Monets are, the Generator learns to make better Monets.
-
-Don't think these look like real Monets? Aren't you the art critic...
