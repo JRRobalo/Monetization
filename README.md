@@ -1,4 +1,4 @@
-# Monetization
+# Monetization: GANgnam style!
 
 We have photographs, but what we really want is artwork - by Monet. So we Monetize the photographs.
 
